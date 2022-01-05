@@ -1,6 +1,6 @@
 # Data-Visualization
 
-## This Repository contains various types of visualizations on diffrent datasets.
+## This repository contains various types of visualizations on diffrent datasets.
 
 ### 1. Black Friday Sales Analysis:
 The objective of this repo is to understand the purchase behavior of its customers during Black Friday sales to create personalized offers/deals. This repository provided actionable insights to assist key business decisions.
